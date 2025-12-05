@@ -1,6 +1,6 @@
 {
   "version": "v20.14.43 (patches 5.46.0)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/mochienya/revanced-ci/releases/download/1/nyatube-revanced-magisk-v20.14.43-arm64-v8a.zip",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/mochienya/revanced-ci/releases/download/2/nyatube-revanced-magisk-v20.14.43-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/mochienya/revanced-ci/update/build.md"
 }
